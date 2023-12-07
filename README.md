@@ -80,9 +80,6 @@ React Router: v6.20.0
 Redux Toolkit: v1.9.7
 Axios: v1.6.2
 Other dependencies: Refer to package.json for a complete list.
-Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## Contact
-For any inquiries, contact Nikhil via email:
+
 
