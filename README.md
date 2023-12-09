@@ -1,6 +1,5 @@
 
-
-## Cinem atrix
+## CineMatrix
 CineMatrix is a React-based web application that allows users to explore and discover information about movies and TV shows. The application provides features such as searching, sorting, and detailed information about movies and TV shows. You can watch trailers and suggested content.
 React + Vite
 
@@ -53,7 +52,7 @@ Explore Page:
 For movies and Tv shows.
 
 
-##SreenShot :
+## ScreenShots :
 
 ![Desktop Screenshot 2023 12 09 - 12 05 26 70](https://github.com/Tejas-Mahajan1/CineMatrix/assets/114793178/edeceb59-179f-438b-af09-205a39ea0bbc)
 ![Desktop Screenshot 2023 12 09 - 12 05 34 28](https://github.com/Tejas-Mahajan1/CineMatrix/assets/114793178/38002aff-4a3a-4322-8677-a6db7ae610da)
