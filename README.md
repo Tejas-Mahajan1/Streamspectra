@@ -53,6 +53,17 @@ Explore Page:
 For movies and Tv shows.
 
 
+##SreenShot :
+![Desktop Screenshot 2023 12 09 - 12 05 26 70](https://github.com/Tejas-Mahajan1/CineMatrix/assets/114793178/edeceb59-179f-438b-af09-205a39ea0bbc)
+![Desktop Screenshot 2023 12 09 - 12 05 34 28](https://github.com/Tejas-Mahajan1/CineMatrix/assets/114793178/38002aff-4a3a-4322-8677-a6db7ae610da)
+![Desktop Screenshot 2023 12 09 - 12 05 47 77](https://github.com/Tejas-Mahajan1/CineMatrix/assets/114793178/eed38745-60c3-40c8-a287-f5f450d9edb0)
+![Desktop Screenshot 2023 12 09 - 12 06 05 22](https://github.com/Tejas-Mahajan1/CineMatrix/assets/114793178/5f7ddc44-7d7e-431b-a200-9cbe9f6f8114)
+![Desktop Screenshot 2023 12 09 - 12 06 14 25](https://github.com/Tejas-Mahajan1/CineMatrix/assets/114793178/ab771695-dcbc-4a54-a819-185abb2889c9)
+![Desktop Screenshot 2023 12 09 - 12 06 36 52](https://github.com/Tejas-Mahajan1/CineMatrix/assets/114793178/08edcb73-a0db-4fcb-86c0-9c63a6156be8)
+![Desktop Screenshot 2023 12 09 - 12 06 45 100](https://github.com/Tejas-Mahajan1/CineMatrix/assets/114793178/b6e3561a-0633-4da1-9a4f-1f1208be2fc7)
+![Desktop Screenshot 2023 12 09 - 12 06 54 16](https://github.com/Tejas-Mahajan1/CineMatrix/assets/114793178/64254623-b881-4c82-b264-a02e077ff3b5)
+![Desktop Screenshot 2023 12 09 - 12 06 59 72](https://github.com/Tejas-Mahajan1/CineMatrix/assets/114793178/fc0ca700-2325-4236-8e51-54f25765ffa4)
+![Desktop Screenshot 2023 12 09 - 12 07 07 16](https://github.com/Tejas-Mahajan1/CineMatrix/assets/114793178/76ff8c77-4f3e-47a6-a6a2-9bb4b3f2c38b)
 
 ## To run the application locally, follow these steps:
 
