@@ -1,7 +1,21 @@
-React + Vite
-Hosting Link - 
-## MoviesHub
+
+
+## Cinem atrix
 CineMatrix is a React-based web application that allows users to explore and discover information about movies and TV shows. The application provides features such as searching, sorting, and detailed information about movies and TV shows. You can watch trailers and suggested content.
+React + Vite
+
+## fEATURES
+Home Page:
+The home page displays a curated list of movies and TV shows. Users can explore different genres and categories.
+
+Details Page:
+Clicking on a specific movie or TV show takes the user to the details page, providing in-depth information about the selected item.
+
+Search:
+Users can search for movies and TV shows using the search bar. The application supports sorting and provides relevant results based on the entered query.
+
+Explore Page:
+For movies and Tv shows.
 
 ## Table of Contents
 Getting Started
@@ -61,18 +75,7 @@ Installation
 . npm run preview
 . Previews the production build locally.
 
-## Usage
-Home Page:
-The home page displays a curated list of movies and TV shows. Users can explore different genres and categories.
 
-Details Page:
-Clicking on a specific movie or TV show takes the user to the details page, providing in-depth information about the selected item.
-
-Search:
-Users can search for movies and TV shows using the search bar. The application supports sorting and provides relevant results based on the entered query.
-
-Explore Page:
-For movies and Tv shows.
 
 ## Dependencies
 React: v18.2.0
