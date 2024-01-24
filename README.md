@@ -1,9 +1,9 @@
 
 ## CineMatrix
 CineMatrix is a React-based web application that allows users to explore and discover information about movies and TV shows. The application provides features such as searching, sorting, and detailed information about movies and TV shows. You can watch trailers and suggested content.
-React + Vite
+React + Vite !
 
-## Features Implemenmted
+## Features Implemenmted.
 1. Movie and TV Show Database:
 Integrate TMDb API to fetch a comprehensive database of movies, TV shows, and other entertainment content.
 2. Search and Filtering:
