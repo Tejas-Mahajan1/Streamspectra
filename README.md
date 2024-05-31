@@ -3,7 +3,7 @@
 StreamSpectra is a React-based web application that allows users to explore and discover information about movies and TV shows. The application provides features such as searching, sorting, and detailed information about movies and TV shows. You can watch trailers and suggested content.
 React + Vite !
 
-##Hosting Link : https://tejas-mahajan-imdb.netlify.app/
+## 🤖 Hosted : <a href="https://tejas-mahajan-imdb.netlify.app/">Here</a>
 
 ## Features Implemenmted.
 1. Movie and TV Show Database:
