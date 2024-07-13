@@ -92,25 +92,6 @@ For movies and Tv shows.
 . npm run dev
 . Starts the development server.
 
-## Build:
-. bash
-. Copy code
-. npm run build
-. Builds the app for production.
-
-## Linting:
-. bash
-. Copy code
-. npm run lint
-. Lints the project files.
-
-## Preview Production Build:
-. bash
-. Copy code
-. npm run preview
-. Previews the production build locally.
-
-
 
 ## Dependencies
 React: v18.2.0
